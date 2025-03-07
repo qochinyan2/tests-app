@@ -17,6 +17,6 @@ npm run dev
 ```
 ## use following command to run tests
 ```
-npm run dev
+npm test
 ```
 ### Thank you for your attention.
