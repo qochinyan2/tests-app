@@ -1,6 +1,6 @@
 ### welcome to my tests-app
 
-> My project is about tests, you can interact using keyboard "/" and "Enter" buttons.
+# you can interact using keyboard buttons. "/" for focusing the input area and "Enter" for searching .
 > project is written using React/Next.js and Typescript language.
 > for state management i've used Redux toolkit(RTK).
 > also SASS is used for solid styling.
