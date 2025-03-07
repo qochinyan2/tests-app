@@ -1,10 +1,10 @@
 ### welcome to my tests-app
 
 # you can interact using keyboard buttons. "/" for focusing the input area and "Enter" for searching .
-> project is written using React/Next.js and Typescript language.
-> for state management i've used Redux toolkit(RTK).
-> also SASS is used for solid styling.
-> i used almost all next.js favors.
+# project is written using React/Next.js and Typescript language.
+# for state management i've used Redux toolkit(RTK).
+# also SASS is used for solid styling.
+# i used almost all next.js favors.
 ## firstly use
 ```
 npm install
