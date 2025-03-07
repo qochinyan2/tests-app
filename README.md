@@ -5,7 +5,10 @@
 > for state management i've used Redux toolkit(RTK).
 > also SASS is used for solid styling.
 > i used almost all next.js favors.
-
+## firstly use
+```
+npm install
+```
 ## to run my project just use this command for running server
 ```
 cd /server
