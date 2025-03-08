@@ -1,0 +1,29 @@
+@import "../../styles/styles.scss";
+
+.finalize-container {
+  width: 100%;
+  height: calc(100vh - 80px - 58px);
+  display: flex;
+  align-items: start;
+  justify-content: center;
+
+  .bottom {
+    align-self: flex-end;
+    a {
+      display: flex;
+      align-items: center;
+      justify-content: start;
+      gap: 14px;
+      width: 100px;
+      text-decoration: none;
+      font-family: $fontname-3;
+      color: #222222;
+      font-weight: 700;
+      font-size: 18px;
+      .img {
+        width:  10px;
+        height: 15px;
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+@import "../../styles/styles.scss";
+
+.tb-link-container {
+  .test-button {
+    font-family: $fontname-1;
+    font-size: 12px;
+    padding:10px 30px;
+    border: none;
+    color: white;
+    text-transform: capitalize;
+    border-radius: 10px;
+    &.results {
+      font-weight: 600;
+      background-color: #2ee5ac;
+    }
+    &.finalize {
+      font-weight: 500;
+      background-color: #7d7d7d;
+    }
+    &:hover {
+      cursor:pointer;
+    }
+  }
+}

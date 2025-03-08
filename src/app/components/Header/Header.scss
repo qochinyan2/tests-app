@@ -1,0 +1,20 @@
+@import "../../styles/styles.scss";
+
+.header-container {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  font-family: $fontname-1, sans-serif;
+  .header-title {
+    font-size: 26px;
+
+    font-weight: 700;
+    color: #222222;
+  }
+  .header-description {
+    font-weight: 700;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+}
